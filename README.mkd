@@ -53,7 +53,7 @@ you can copy the default configuration files from configuration folder.
 How to configure bot
 =====================
 
-There is folder configuration with master config file wmib.conf, if you open it,
+There is folder configuration with :fire: master config file wmib.conf, if you open it,
 you will see a lot of comments with explanations how to configure the bot.
 
 
@@ -61,3 +61,6 @@ Where can I get help
 =====================
 
 You can join #wm-bot on freenode and ask there
+/j #wm-bot
+/me qeeqoo
+:octocat:
